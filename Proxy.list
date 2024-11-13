@@ -4,11 +4,6 @@ IP-CIDR,103.115.43.2/32,no-resolve
 IP-CIDR,104.236.69.0/24,no-resolve
 
 # 国外DNS
-DOMAIN-SUFFIX,app.ipfoxy.com
-DOMAIN-SUFFIX,*.ipfoxy.com
-DOMAIN-SUFFIX,adspower.net
-DOMAIN-SUFFIX,*.adspower.net
-DOMAIN-SUFFIX,start.adspower.net
 DOMAIN-SUFFIX,sosovalue.com
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
