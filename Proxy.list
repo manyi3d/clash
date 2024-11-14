@@ -17,6 +17,11 @@ DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
 
 # 其他网站
+DOMAIN-SUFFIX,192.168.0.0/16
+DOMAIN-SUFFIX,10.0.0.0/8
+DOMAIN-SUFFIX,172.16.0.0/12
+DOMAIN-SUFFIX,adspower.net
+DOMAIN-SUFFIX,*.adspower.net
 DOMAIN-SUFFIX,dashboard.webshare.io
 DOMAIN-SUFFIX,sosovalue.com
 DOMAIN-SUFFIX,polymarket.com
